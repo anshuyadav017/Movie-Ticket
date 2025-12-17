@@ -1,0 +1,2 @@
+filename.ext filter=lfs diff=lfs merge=lfs -text
+book-my-movie-backend-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
